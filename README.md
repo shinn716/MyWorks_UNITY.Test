@@ -1,8 +1,8 @@
 # myUnityWorks
 My unity practice.
 
-Chapter 1         Key Input
-Chapter 1.1       Basic keyboard game
+Chapter 1 Key Input
+Chapter 1.1 Basic keyboard game
 
 Chapter 2        Mouse Input
 (a) https://www.youtube.com/watch?v=kCDd03rV0AQ
