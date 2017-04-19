@@ -7,7 +7,7 @@ Chapter 1      Key Input
 Chapter 1.1    Basic keyboard game
 
 Chapter 2      Mouse Input                   
-     (a) https://www.youtube.com/watch?v=kCDd03rV0AQ
+          (a) https://www.youtube.com/watch?v=kCDd03rV0AQ
 
 Chapter 2.1    Mouse click and load an image.                    
      (a) https://www.youtube.com/watch?v=Go-FfepGETs
