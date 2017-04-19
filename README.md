@@ -30,7 +30,7 @@ Chapter 5      Read image data
 Chapter 5.1    Perlin Noise                  
      (a) https://www.youtube.com/watch?v=j80Puu_Y_z4
 
-Chapter 6     Tween                                              
+Chapter 6     Tween                                                                                                                   
      (a) https://www.youtube.com/watch?v=Hnhe1WuqEtU
 
 Chapter +      Creative Coding               
