@@ -4,9 +4,9 @@ My unity practice.
 Chapter 1         Key Input
 Chapter 1.1       Basic keyboard game
 Chapter 2        Mouse Input
-      https://www.youtube.com/watch?v=kCDd03rV0AQ
+     (a) https://www.youtube.com/watch?v=kCDd03rV0AQ
 Chapter 2.1      Mouse click and load an image.
-      https://www.youtube.com/watch?v=Go-FfepGETs
+     (a) https://www.youtube.com/watch?v=Go-FfepGETs
 Chapter 3        Draw a Circle
 Chapter 3.1       Microphone Input 
 Chapter 3.2     2D Audio visualization
@@ -14,13 +14,13 @@ Chapter 3.3     3D Audio visualization
 Chapter 4        Mouse Easing
 Chapter 4.1      Draw line with Sin/Cos.                
 Chapter 5        Read image data
-      https://www.youtube.com/watch?v=bQdb90KK2l8
+     (a) https://www.youtube.com/watch?v=bQdb90KK2l8
 Chapter 5.1     Perlin Noise
-      https://www.youtube.com/watch?v=j80Puu_Y_z4
+     (a) https://www.youtube.com/watch?v=j80Puu_Y_z4
 Chapter 10      Tween                                
-      https://www.youtube.com/watch?v=Hnhe1WuqEtU
+     (a) https://www.youtube.com/watch?v=Hnhe1WuqEtU
 Chapter +        Creative Coding
-      Rick Barraza https://channel9.msdn.com/Series/UnityCreativeCoding
-      はじめてプログラム http://hajimete-program.com/blog/category/unity/creativecoding/
+     (a) https://channel9.msdn.com/Series/UnityCreativeCoding
+     (b) http://hajimete-program.com/blog/category/unity/creativecoding/
  
  
