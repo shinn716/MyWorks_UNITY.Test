@@ -23,7 +23,7 @@ Chapter 3.3    3D Audio visualization
 Chapter 4      Mouse Easing
 
 Chapter 4.1    Draw line with Sin/Cos.                    
-     (a) http://www.everyday3d.com/blog/index.php/2010/03/15/3-ways-to-draw-3d-lines-in-unity3d/
+     (a) http://www.everyday3d.com/blog/index.php/2010/03/15/3-ways-to-draw-3d-lines-in-unity3d/                   
 Chapter 5      Read image data                    
      (a) https://www.youtube.com/watch?v=bQdb90KK2l8
 
