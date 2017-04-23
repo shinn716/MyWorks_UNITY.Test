@@ -36,6 +36,7 @@ Chapter 5.1    Perlin Noise
 Chapter 6      Tween       												
 	(a) UI Tween	https://www.youtube.com/watch?v=FA-XRxxj3vs                          
 	(b) basic Tween https://www.youtube.com/watch?v=Hnhe1WuqEtU
+	(c) tween Animation https://www.youtube.com/watch?v=enm869V0HVI
 
 Chapter 7        Particle System
           https://www.youtube.com/watch?v=dzFCvjwkMJo
