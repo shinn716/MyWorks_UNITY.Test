@@ -2,21 +2,21 @@
 My unity practice.
 
 
-Chapter 1      Key Input
+Chapter 1      Key Input							
 
-Chapter 1.1    Basic keyboard game
+Chapter 1.1    Basic keyboard game						
 	(a) 推方塊遊戲 https://www.youtube.com/watch?v=FKCYi8_iTds
 	
-Chapter 2      Mouse Input                   
+Chapter 2      Mouse Input                   					
 	(a) 按鈕連結URL https://www.youtube.com/watch?v=kCDd03rV0AQ
 
-Chapter 2.1    Mouse click and load an image.                    
+Chapter 2.1    Mouse click and load an image.                    		
 	(a) Loading image_1 https://www.youtube.com/watch?v=Go-FfepGETs
 	(b) Loading image_2 https://www.youtube.com/watch?annotation_id=annotation_3547495163&feature=iv&src_vid=40ktY3S5sQQ&v=o15wTgDSCbE
 
-Chapter 3      Draw a Circle
+Chapter 3      Draw a Circle							
 
-Chapter 3.1    Microphone Input 
+Chapter 3.1    Microphone Input 						
 
 Chapter 3.2    2D Audio visualization
 
