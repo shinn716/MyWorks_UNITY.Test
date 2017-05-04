@@ -1,6 +1,7 @@
 # myUnityWorks
 My unity practice.
 
+資料蒐集
 
 Chapter 1      Key Input							
 
@@ -24,6 +25,8 @@ Chapter 3.1    Microphone Input
 Chapter 3.2    2D Audio visualization
 
 Chapter 3.3    3D Audio visualization
+
+	(a) Audio Visualization https://www.youtube.com/watch?v=ELLANEFw5B8&t=5s
 
 Chapter 4      Mouse Easing
 
