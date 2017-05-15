@@ -5,19 +5,24 @@ Project introduce
 =========================================================================================
 
 pro1_keyInput:
-基礎推方塊遊戲.
+
+	基礎推方塊遊戲.
 
 pro2_mouseInput:
-利用UI-Tween製作照片的瀏覽系統, 滑鼠移入照片, 產生跳出效果, 滑鼠移出照片, 產生縮小效果, 點擊照片則跳出照片簡介.
 
-pro3_audioVisualization
-2D Audio Visualization, 利用Unity的LineRender來製作簡單的聲音視覺化動畫.
+	利用UI-Tween製作照片的瀏覽系統, 滑鼠移入照片, 產生跳出效果, 滑鼠移出照片, 產生縮小效果, 點擊照片則跳出照片簡介.
 
-pro4_image
-Montage, 嘗試做蒙太奇效果, 再利用3D空間的Z軸, 來產生向中心點集中的動畫.
+pro3_audioVisualization: 
 
-pro5_MengerSponge
-Menger Sponge Fractal練習.
+	2D Audio Visualization, 利用Unity的LineRender來製作簡單的聲音視覺化動畫.
+
+pro4_image: 
+
+	Montage, 嘗試做蒙太奇效果, 再利用3D空間的Z軸, 來產生向中心點集中的動畫.
+
+pro5_MengerSponge: 
+
+	Menger Sponge Fractal練習.
 
 
 資料蒐集
