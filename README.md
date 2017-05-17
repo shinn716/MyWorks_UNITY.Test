@@ -74,6 +74,7 @@ Chapter 7        Particle System
           https://www.youtube.com/watch?v=dzFCvjwkMJo
           https://www.youtube.com/watch?v=9aBb3tXqdC8
           https://www.youtube.com/watch?v=_hCXUCehWIo
+	  https://www.youtube.com/watch?v=qJEBAPRt8AA
 
 Chapter +      Creative Coding               
 
